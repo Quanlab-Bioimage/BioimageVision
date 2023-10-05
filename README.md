@@ -17,7 +17,7 @@ quxuzhong@hust.edu.cn
 ## 软件
 ## 安装
 * 解压安装包
-* cd /BioimageVision下
+* cd /SoftWare/BioimageVision
 * 双击BioimageVisio.exe
 ## 操作手册
 这是操作手册
