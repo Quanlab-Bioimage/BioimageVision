@@ -19,7 +19,7 @@ Memory: More than 8GB <br>
 * image size in z: none<br>
 
 ## Software
-[Software](https://github.com/Quanlab-Bioimage/BioimageVision/releases/tag/SoftWare)
+[Software-BioimageVision](https://github.com/Quanlab-Bioimage/BioimageVision/releases/tag/SoftWare)
 ## Installation
 An installation guide can be found in section 2 of the User guide. <br>
 It takes approximately xxxx s to install the software on a recommended computer.
