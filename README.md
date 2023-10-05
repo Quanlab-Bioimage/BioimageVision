@@ -43,6 +43,7 @@ The entire visualization is displayed on a recommended computer in real time.<br
 1. Do not perform other operations on the computer during the Large-scale data transformation.
 2. The storage device must support high efficiency and long-term reading.
 3. More continuous the storing address of the 2D image sequence, faster the data transformation speed.
+4. All paths cannot contain Chinese characters and Spaces.
 
 ## Technique Help
 quxuzhong@hust.edu.cn
