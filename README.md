@@ -29,7 +29,7 @@ It takes approximately xxxx s to install the software on a recommended computer.
 ## Demo video
 **1. [Large-scale data transformation](https://github.com/Quanlab-Bioimage/BioimageVision/blob/master/Video/Large-scale%20data%20transformation.mp4)**<br>
 data information: 8192 x8192 x 1600, 8 bit, LZW.<br>
-running time (recommended computer) : 245s.<br>
+running time: 245s. (computer configuration: CPU 13th Gen Intel(R) Core(TM) i9-13900K 3.00 GHz,RAM 128 GB) <br>
 
 **2. Visualization**<br>
 * [The visualization of large-scale data](https://github.com/Quanlab-Bioimage/BioimageVision/blob/master/Video/the%20visualization%20of%20large-scale%20data.mp4)
