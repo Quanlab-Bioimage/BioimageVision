@@ -30,8 +30,8 @@ data information: 8192 x8192 x 1600, 8 bit, LZW.<br>
 running time (recommended computer) : 245s.<br>
 
 **2. Visualization**<br>
-* [Visualization of slices from the whole volume data](https://github.com/Quanlab-Bioimage/BioimageVision/blob/master/Video/Visualization%20of%20slices%20from%20the%20whole%20volume%20data%20.mp4)
 * [The visualization of large-scale data](https://github.com/Quanlab-Bioimage/BioimageVision/blob/master/Video/the%20visualization%20of%20large-scale%20data.mp4)
+* [Visualization of slices from the whole volume data](https://github.com/Quanlab-Bioimage/BioimageVision/blob/master/Video/Visualization%20of%20slices%20from%20the%20whole%20volume%20data%20.mp4)
 * [visualization of a series of small blocks surrounding the traced neurites](https://github.com/Quanlab-Bioimage/BioimageVision/blob/master/Video/visualization%20of%20a%20series%20of%20small%20blocks%20surrounding%20the%20traced%20neurites.mp4)<br>
 data information: 8271 x 9016 x 2967, 16 bit, LZW.<br>
 The entire visualization is displayed on a recommended computer in real time.<br>
