@@ -19,7 +19,7 @@ Memory: More than 8GB <br>
 * image size in z: none<br>
 
 ## Software
-[Click this link to download BioimageVision.7z](https://github.com/Quanlab-Bioimage/BioimageVision/releases/tag/SoftWare)
+[Click this link to download BioimageVision.zip](https://github.com/Quanlab-Bioimage/BioimageVision/releases/tag/SoftWare)
 ## Installation
 An installation guide can be found in section 2 of the User guide. <br>
 It takes approximately 10s to install the software on a recommended computer.
